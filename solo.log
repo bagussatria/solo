@@ -1,0 +1,13 @@
+[INFO ]-[2019-03-16 13:23:06]-[com.zaxxer.hikari.HikariDataSource:110]: HikariPool-1 - Starting...
+[INFO ]-[2019-03-16 13:23:11]-[com.zaxxer.hikari.HikariDataSource:123]: HikariPool-1 - Start completed.
+[INFO ]-[2019-03-16 13:23:11]-[org.b3log.solo.service.InitService:193]: It's your first time setup Solo, initialize tables in database [H2]
+[INFO ]-[2019-03-16 13:23:11]-[org.b3log.solo.service.InitService:198]: Your DATA will be stored in directory [jdbc:h2:C:\Users\Agas/solo_h2/db], please pay more attention on it!
+[WARN ]-[2019-03-16 13:23:11]-[org.b3log.solo.service.InitService:163]: Solo has not been initialized, please open your browser to init Solo
+[INFO ]-[2019-03-16 13:25:22]-[org.b3log.solo.service.InitService:464]: Initialized statistic
+[INFO ]-[2019-03-16 13:25:23]-[org.b3log.solo.service.InitService:681]: Initialized preference
+[INFO ]-[2019-03-16 13:25:23]-[org.b3log.solo.service.InitService:428]: Initialized admin
+[INFO ]-[2019-03-16 13:25:23]-[org.b3log.solo.service.InitService:446]: Initialized link
+[INFO ]-[2019-03-16 13:25:25]-[org.b3log.solo.util.Markdowns:128]: [marked] is not available, uses built-in [flexmark] for markdown processing. Please read FAQ section in user guide (https://hacpai.com/article/1492881378588) for more details.
+[INFO ]-[2019-03-16 13:25:26]-[org.b3log.solo.service.InitService:300]: Hello World!
+[INFO ]-[2019-03-16 13:25:27]-[org.b3log.solo.processor.OAuthProcessor:229]: Logged in [name=bagussatria, remoteAddr=0:0:0:0:0:0:0:1] with oauth
+[INFO ]-[2019-03-16 13:56:58]-[org.b3log.solo.event.B3ArticleSender:99]: Solo is running on local server, ignored push article [title=Solo Guide] to Rhy
